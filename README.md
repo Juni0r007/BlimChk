@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Checkea cuentas de Spotify desde tu celular. Este proyecto tiene fines educativos y/o demostrativos.
+Checkea cuentas de Blim desde tu celular. Este proyecto tiene fines educativos y/o demostrativos.
 
 Tenemos un grupo en facebook > https://www.facebook.com/groups/491341894676273
 
