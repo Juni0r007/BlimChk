@@ -49,7 +49,7 @@ Antes de eso hay que darle permisos de ejecución al script
 
 8. php blim.php
 
-Les sale el Checker de spotify
+Les sale el Checker de Blim
 
 ## Uso
 
