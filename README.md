@@ -1,4 +1,4 @@
-# BlimChk v0.0.1
+# BlimChk v0.0.3
 
 ## Introducción
 
